@@ -14,11 +14,9 @@
  
  <br>
  
-  ### Para outras formas de se comunicar comigo, me segue a gente nas redes abaixo!
+  ### Para me encontrar no linkedin, basta me seguir abaixo!
  
 <div> 
-  <a href="https://https://www.instagram.com/erickkkk_7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "linofreiree@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-lino-freire-137568269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
